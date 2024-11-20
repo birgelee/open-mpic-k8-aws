@@ -193,6 +193,11 @@ terraform.rc
 # custom directory for Hatch virtual environments
 .hatch/
 
+
+# TF State
+open-tofu/terraform.tfstate
+open-tofu/terraform.tfstate.backup
+
 # MacOS specific files
 .DS_Store
 
