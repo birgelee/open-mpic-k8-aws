@@ -197,6 +197,7 @@ terraform.rc
 # TF State
 open-tofu/terraform.tfstate
 open-tofu/terraform.tfstate.backup
+open-tofu/.terraform/
 
 # MacOS specific files
 .DS_Store
